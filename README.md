@@ -11,25 +11,6 @@ This repository contains the lecture slides and materials for **BME5012: Brain I
 *   **Track Frontiers**: Understand the cutting-edge research in neuro-cognitive computing and the interaction between human brain intelligence and AI.
 *   **Practice Research**: Develop the ability to conduct integrative research on brain and artificial intelligence through project design and implementation.
 
-## Companion Textbook: *Brain Intelligence and Artificial Intelligence*
-
-Based on the core content of this course, our team has authored a comprehensive textbook to provide a systematic and in-depth exploration of the field.
-
-| | |
-| :--- | :--- |
-| **Title (Chinese)** | 《人脑智能与人工智能》 |
-| **Title (English)** | **Brain Intelligence and Artificial Intelligence** |
-| **Authors** | Quanying Liu, Youzhi Qu, Chen Wei, Zhichao Liang. |
-| **Publisher** | Tsinghua University Press |
-| **ISBN** | 978-7-302-70003-6 |
-| **Description** | This book serves as both a companion to the BI&AI course and a standalone reference. It delves deeper into the theories, models, and applications discussed in lectures, offering a structured and coherent journey from fundamental neural mechanisms to advanced AI paradigms inspired by the brain. It is an essential resource for students, researchers, and enthusiasts eager to understand the convergence of neuroscience and AI. |
-| **Purchase Options** |  |
-| | **1. Author-Signed Edition (via Kuai Tuan Tuan WeChat Mini Program):** |
-| |     [Purchase Author-Signed Copy Here (WeChat Mini Program)](#小程序://快团团/Dq5OyNT8Ay0Mcpk) |
-| |     *Note: This link opens within the WeChat app and leads to the "快团团" mini-program.* |
-| | **2. JD.com Official Store:** |
-| |     [Purchase on JD.com](https://item.jd.com/10182038282151.html](https://3.cn/2-q4wbKz?jkl=@N4HJs6EcFbq6@) |
-
 ## Resource Links
 
 *   **Course Videos (Fall 2022)**:
@@ -43,7 +24,18 @@ Based on the core content of this course, our team has authored a comprehensive 
 
 This repository primarily collects and organizes **lecture slides** (typically in PDF format). The slides are organized by lecture number and topic.
 
-**Please Note**: This repository is only a backup and collection of course slides. The copyright belongs to the original authors and the instructor. For the most official and up-to-date materials, always refer to the links provided by the instructor and announcements from the [NCC Lab](https://www.ncclab.com/).
+## Companion Textbook: *Brain Intelligence and Artificial Intelligence*
+
+Based on the core content of this course, our team has authored a comprehensive textbook to provide a systematic and in-depth exploration of the field.
+
+| | |
+| :--- | :--- |
+| **Title (Chinese)** | 《人脑智能与人工智能》 |
+| **Title (English)** | **Brain Intelligence and Artificial Intelligence** |
+| **Authors** | Quanying Liu, Youzhi Qu, Chen Wei, Zhichao Liang. |
+| **Publisher** | Tsinghua University Press |
+| **ISBN** | 978-7-302-70003-6 |
+| **Description** | This book serves as both a companion to the BI&AI course and a standalone reference. It delves deeper into the theories, models, and applications discussed in lectures, offering a structured and coherent journey from fundamental neural mechanisms to advanced AI paradigms inspired by the brain. It is an essential resource for students, researchers, and enthusiasts eager to understand the convergence of neuroscience and AI. |
 
 ## Usage
 
