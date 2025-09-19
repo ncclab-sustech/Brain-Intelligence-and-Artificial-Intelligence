@@ -29,6 +29,7 @@ This repository primarily collects and organizes **lecture slides** (typically i
 <div align="center">
    <img src="./Picture/BI&AI_book.png" width="400" alt="BI&AI">
 </div>
+
 Based on the core content of this course, our team has authored a comprehensive textbook to provide a systematic and in-depth exploration of the field.
 | | |
 | :--- | :--- |
@@ -37,6 +38,7 @@ Based on the core content of this course, our team has authored a comprehensive 
 | **Authors** | Quanying Liu, Youzhi Qu, Chen Wei, Zhichao Liang. |
 | **Publisher** | Tsinghua University Press |
 | **ISBN** | 978-7-302-70003-6 |
+
 Purchase Options:
 <div style="display: flex; justify-content: center; gap: 40px; margin: 20px 0;">
   <div style="text-align: center;">
