@@ -36,8 +36,9 @@ Based on the core content of this course, our team has authored a comprehensive 
 | **Publisher** | Tsinghua University Press |
 | **ISBN** | 978-7-302-70003-6 |
 您可以通过以下方式购买教材：
-[![扫码购买作者签名版](./Picture/Purchase_author-signed.png "通过微信小程序购买")]
-[![扫码京东购买](./Picture/Purchase_JD.png "通过京东商城购买")]
+<img src=./Picture/Purchase_author-signed.png width="200" alt="通过微信小程序购买作者签名版"/>
+<img src="./Picture/Purchase_JD.png" width="200" alt="通过京东商城购买"/>
+
 ## Usage
 
 1.  You can directly browse or download the slide files in this repository for study purposes.
