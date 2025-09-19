@@ -15,7 +15,7 @@ This repository contains the lecture slides and materials for **BME5012: Brain I
 
 *   **Course Videos (Fall 2022)**:
     *   [【Playlist】BI&AI 2022](https://b23.tv/z8ox8PE)
-*   **Course Videos (Fall 2024, Ongoing)**:
+*   **Course Videos (Fall 2024)**:
     *   [【Playlist】BI&AI 2024](https://b23.tv/kuRiHOw)
 *   **Hands-on Tutorials**:
     *   All programming exercises and guides are hosted in a separate dedicated repository: [ncclab-sustech/BI-AI_hands_on](https://github.com/ncclab-sustech/BI-AI_hands_on)
@@ -35,7 +35,6 @@ Based on the core content of this course, our team has authored a comprehensive 
 | **Authors** | Quanying Liu, Youzhi Qu, Chen Wei, Zhichao Liang. |
 | **Publisher** | Tsinghua University Press |
 | **ISBN** | 978-7-302-70003-6 |
-| **Description** | This book serves as both a companion to the BI&AI course and a standalone reference. It delves deeper into the theories, models, and applications discussed in lectures, offering a structured and coherent journey from fundamental neural mechanisms to advanced AI paradigms inspired by the brain. It is an essential resource for students, researchers, and enthusiasts eager to understand the convergence of neuroscience and AI. |
 
 ## Usage
 
