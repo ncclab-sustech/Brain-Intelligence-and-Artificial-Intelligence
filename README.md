@@ -35,18 +35,12 @@ Based on the core content of this course, our team has authored a comprehensive 
 | **Publisher** | Tsinghua University Press |
 | **ISBN** | 978-7-302-70003-6 |
 | **Purchase Options** | ** |
-| | <table><tr> |
-| | <td align="center" width="50%"> |
-| | <img src="./Picture/Purchase_author-signed.png" width="150" alt="作者签名版二维码"><br> |
-| | <sup>作者签名版<br>(微信小程序)</sup> |
-| | </a> |
-| | </td> |
-| | <td align="center" width="50%"> |
-| | <img src="./Picture/Purchase_JD.png" width="150" alt="京东购买二维码"><br> |
-| | <sup>京东官方版</sup> |
-| | </a> |
-| | </td> |
-| | </tr></table> |
+| | <div align="center"> |
+| | <img src="./Picture/Purchase_author-signed.png" width="150" alt="作者签名版"></a> |
+| | <img src="./Picture/Purchase_JD.png" width="150" alt="京东版"></a> |
+| | <br> |
+| | <sup>左：作者签名版(微信小程序) | 右：京东官方版</sup> |
+| | </div> |
 
 ## Usage
 
