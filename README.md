@@ -25,10 +25,10 @@ Based on the core content of this course, our team has authored a comprehensive 
 | **Description** | This book serves as both a companion to the BI&AI course and a standalone reference. It delves deeper into the theories, models, and applications discussed in lectures, offering a structured and coherent journey from fundamental neural mechanisms to advanced AI paradigms inspired by the brain. It is an essential resource for students, researchers, and enthusiasts eager to understand the convergence of neuroscience and AI. |
 | **Purchase Options** |  |
 | | **1. Author-Signed Edition (via Kuai Tuan Tuan WeChat Mini Program):** |
-| |     [Purchase Author-Signed Copy Here (WeChat Mini Program)](https://j.youzan.com/_kK6vV0) |
+| |     [Purchase Author-Signed Copy Here (WeChat Mini Program)](#小程序://快团团/Dq5OyNT8Ay0Mcpk) |
 | |     *Note: This link opens within the WeChat app and leads to the "快团团" mini-program.* |
 | | **2. JD.com Official Store:** |
-| |     [Purchase on JD.com](https://item.jd.com/10182038282151.html) |
+| |     [Purchase on JD.com](https://item.jd.com/10182038282151.html](https://3.cn/2-q4wbKz?jkl=@N4HJs6EcFbq6@) |
 
 ## Resource Links
 
