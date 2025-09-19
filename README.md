@@ -1,9 +1,7 @@
 # SusTech BME5012: Brain Intelligence and Artificial Intelligence (BI&AI)
-
 This repository contains the lecture slides and materials for **BME5012: Brain Intelligence and Artificial Intelligence (BI&AI)** at the **Southern University of Science and Technology (SUSTech)**. The course is taught by **Prof. Quanying Liu** from the **Neural Computing & Control Laboratory (NCC Lab)**.
 
 ## Course Description
-
 "Brain Intelligence and Artificial Intelligence" is an interdisciplinary graduate course designed to bridge the frontiers of neuroscience and artificial intelligence. The course aims to guide students to:
 
 *   **Understand Mechanisms**: Comprehend the fundamental working mechanisms of the brain and artificial intelligence.
@@ -12,7 +10,6 @@ This repository contains the lecture slides and materials for **BME5012: Brain I
 *   **Practice Research**: Develop the ability to conduct integrative research on brain and artificial intelligence through project design and implementation.
 
 ## Resource Links
-
 *   **Course Videos (Fall 2022)**:
     *   [【Playlist】BI&AI 2022](https://b23.tv/z8ox8PE)
 *   **Course Videos (Fall 2024)**:
@@ -21,11 +18,17 @@ This repository contains the lecture slides and materials for **BME5012: Brain I
     *   All programming exercises and guides are hosted in a separate dedicated repository: [ncclab-sustech/BI-AI_hands_on](https://github.com/ncclab-sustech/BI-AI_hands_on)
 
 ## Repository Content
-
 This repository primarily collects and organizes **lecture slides** (typically in PDF format). The slides are organized by lecture number and topic.
 
+## Usage
+1.  You can directly browse or download the slide files in this repository for study purposes.
+2.  For the best learning experience, it is highly recommended to combine the slides with the **Bilibili course videos** and code from the **hands-on repository**.
+3.  Issues and Pull Requests are welcome to correct errors or add missing slides (if authorized).
+
 ## Companion Textbook: *Brain Intelligence and Artificial Intelligence*
-<img src="./Picture/Purchase_author-signed.png" width="200" alt="BI&AI">
+<div align="center">
+   <img src="./Picture/BI&AI_book.png" width="400" alt="BI&AI">
+</div>
 Based on the core content of this course, our team has authored a comprehensive textbook to provide a systematic and in-depth exploration of the field.
 | | |
 | :--- | :--- |
@@ -50,18 +53,26 @@ Purchase Options:
   </div>
 </div>
 
-## Usage
-
-1.  You can directly browse or download the slide files in this repository for study purposes.
-2.  For the best learning experience, it is highly recommended to combine the slides with the **Bilibili course videos** and code from the **hands-on repository**.
-3.  Issues and Pull Requests are welcome to correct errors or add missing slides (if authorized).
 
 ## License & Disclaimer
-
 *   All course materials, including but not limited to slides, videos, and code, are the copyright of **Southern University of Science and Technology**, **Prof. Quanying Liu**, and her team.
 *   All resources are **for personal academic and research use only**. Commercial use is strictly prohibited.
 *   Please respect the authors' work and attribute the source when using these materials.
 
-## Related Links
+## 🚀 Join the NCC Lab Community!
+
+Hey there! 👋 Love exploring the fascinating world of brain science and AI? So do we! 
+
+Come join our vibrant community and let's explore the future of intelligence together! 🧠✨
+
+### WeChat Official Account
+<div align="center">
+    <img src="./Picture/NCCLAB_wechat.png" width="200" alt="NCC Lab WeChat Official Account QR Code">
+</div>
+
+### Bilibili Channel
+<div align="center">
+    <img src="./Picture/NCCLAB_bilibili.png" width="200" alt="NCC Lab Bilibili Channel QR Code">
+</div>
 
 
