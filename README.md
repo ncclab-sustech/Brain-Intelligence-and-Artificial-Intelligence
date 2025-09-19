@@ -25,7 +25,7 @@ This repository contains the lecture slides and materials for **BME5012: Brain I
 This repository primarily collects and organizes **lecture slides** (typically in PDF format). The slides are organized by lecture number and topic.
 
 ## Companion Textbook: *Brain Intelligence and Artificial Intelligence*
-
+<img src="./Picture/Purchase_author-signed.png" width="200" alt="BI&AI">
 Based on the core content of this course, our team has authored a comprehensive textbook to provide a systematic and in-depth exploration of the field.
 | | |
 | :--- | :--- |
@@ -34,13 +34,21 @@ Based on the core content of this course, our team has authored a comprehensive 
 | **Authors** | Quanying Liu, Youzhi Qu, Chen Wei, Zhichao Liang. |
 | **Publisher** | Tsinghua University Press |
 | **ISBN** | 978-7-302-70003-6 |
-| **Purchase Options** | ** |
-| | <div align="center"> |
-| | <img src="./Picture/Purchase_author-signed.png" width="150" alt="作者签名版"></a> |
-| | <img src="./Picture/Purchase_JD.png" width="150" alt="京东版"></a> |
-| | <br> |
-| | <sup>左：作者签名版(微信小程序) | 右：京东官方版</sup> |
-| | </div> |
+Purchase Options:
+<div style="display: flex; justify-content: center; gap: 40px; margin: 20px 0;">
+  <div style="text-align: center;">
+    <img src="./Picture/Purchase_author-signed.png" width="200" alt="作者签名版">
+      <br>
+      <sup>微信扫码（作者签名版）</sup>
+    </a>
+  </div>
+  <div style="text-align: center;">
+    <img src="./Picture/Purchase_JD.png" width="200" alt="京东购买">
+      <br>
+      <sup>京东商城</sup>
+    </a>
+  </div>
+</div>
 
 ## Usage
 
@@ -56,6 +64,4 @@ Based on the core content of this course, our team has authored a comprehensive 
 
 ## Related Links
 
-*   **Southern University of Science and Technology (SUSTech)**: https://www.sustech.edu.cn/en/
-*   **Neural Computing & Control Lab (NCC Lab)**: https://www.ncclab.com/
-*   **Prof. Quanying Liu's Profile**: https://www.sustech.edu.cn/en/faculties/quanyingliu.html
+
