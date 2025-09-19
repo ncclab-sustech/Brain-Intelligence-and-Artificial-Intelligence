@@ -14,9 +14,9 @@ This repository contains the lecture slides and materials for **BME5012: Brain I
 ## Resource Links
 
 *   **Course Videos (Fall 2022)**:
-    *   [【Playlist】BI&AI 2022 Full Course - Quanying Liu](https://www.bilibili.com/video/BV1sW4y1i7dL/)
+    *   [【Playlist】BI&AI 2022](https://b23.tv/z8ox8PE)
 *   **Course Videos (Fall 2024, Ongoing)**:
-    *   [【Playlist】2024BI&AI - Quanying Liu](https://www.bilibili.com/video/BV1jf421Y7nR/)
+    *   [【Playlist】BI&AI 2024](https://b23.tv/kuRiHOw)
 *   **Hands-on Tutorials**:
     *   All programming exercises and guides are hosted in a separate dedicated repository: [ncclab-sustech/BI-AI_hands_on](https://github.com/ncclab-sustech/BI-AI_hands_on)
 
