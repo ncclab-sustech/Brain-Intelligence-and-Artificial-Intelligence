@@ -37,13 +37,11 @@ Based on the core content of this course, our team has authored a comprehensive 
 | **Purchase Options** | ** |
 | | <table><tr> |
 | | <td align="center" width="50%"> |
-| | <a href="https://j.youzan.com/_kK6vV0"> |
 | | <img src="./Picture/Purchase_author-signed.png" width="150" alt="作者签名版二维码"><br> |
 | | <sup>作者签名版<br>(微信小程序)</sup> |
 | | </a> |
 | | </td> |
 | | <td align="center" width="50%"> |
-| | <a href="https://item.jd.com/10182038282151.html"> |
 | | <img src="./Picture/Purchase_JD.png" width="150" alt="京东购买二维码"><br> |
 | | <sup>京东官方版</sup> |
 | | </a> |
