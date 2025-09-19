@@ -35,7 +35,8 @@ Based on the core content of this course, our team has authored a comprehensive 
 | **Authors** | Quanying Liu, Youzhi Qu, Chen Wei, Zhichao Liang. |
 | **Publisher** | Tsinghua University Press |
 | **ISBN** | 978-7-302-70003-6 |
-
+您可以通过以下方式购买教材：
+[![扫码购买作者签名版](./Pictures/Purchase_author-signed.png "通过微信小程序购买")]
 ## Usage
 
 1.  You can directly browse or download the slide files in this repository for study purposes.
